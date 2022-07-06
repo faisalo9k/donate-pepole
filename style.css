@@ -182,3 +182,10 @@
     border: none;
     outline: none;
 }
+
+.footer-text{
+    text-align: center;
+    padding: 50px;
+    color: rgba(236, 177, 100, 0.917);
+    background-color: lightslategray;
+}
