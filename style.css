@@ -66,6 +66,52 @@
     font-size: 20px;
     width: 65%;
 }
+.donate-plan-title{
+    text-align: center;
+    margin: 20px 0px;
+}
+.donate-plan-title h1 {
+    margin: 20px 0px;
+}
+.donate-plan-contain{
+    display: flex;
+    justify-content: center;
+    margin: 50px 0px;
+    padding: 20px 100px;
+}
+.donate-pack-1{
+    width: 33.99%;
+    height: 250px;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 5px;
+    background-color: rgba(117, 247, 247, 0.554);
+}
+.donate-pack-2{
+    width: 33.99%;
+    height: 250px;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: rgba(252, 204, 144, 0.804);
+}
+.donate-pack-3{
+    width: 33.99%;
+    height: 250px;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: rgba(248, 158, 173, 0.809);
+}
+.donate-pack-img{
+    padding: 20px;
+}
+.donate-pack-title h2{
+    margin: 20px;
+}
+.donate-pack-title p{
+    margin: 20px;
+}
 
 
 .btn{
